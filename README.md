@@ -1,3 +1,5 @@
+[![CI](https://github.com/nogibjj/chris_moreira_week4_project/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/chris_moreira_week4_project/actions/workflows/ci.yml)
+
 # chris_moreira_week4_project
 
 # Project Week 4
